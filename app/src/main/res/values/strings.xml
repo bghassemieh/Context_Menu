@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Context_Menu</string>
+    <string name="btn_1">FIRST BUTTON</string>
+    <string name="btn_2">button 2</string>
+</resources>
